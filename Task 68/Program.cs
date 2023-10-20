@@ -17,5 +17,11 @@ int numberM = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите значение N: ");
 int numberN = Convert.ToInt32(Console.ReadLine());
 
+if (numberM < 0 || numberN < 0)
+{
+    Console.WriteLine("Некорректный ввод!");
+    return;
+}
+
 AckermannFunction(numberM, numberN);
 Console.Write($"Функция Аккермана A({numberM}, {numberN}) -> {AckermannFunction(numberM, numberN)} ");
