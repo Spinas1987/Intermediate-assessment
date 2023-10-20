@@ -1,0 +1,14 @@
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/bin/Debug/net7.0/Task 64
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/bin/Debug/net7.0/Task 64.deps.json
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/bin/Debug/net7.0/Task 64.runtimeconfig.json
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/bin/Debug/net7.0/Task 64.dll
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/bin/Debug/net7.0/Task 64.pdb
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.AssemblyInfoInputs.cache
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.AssemblyInfo.cs
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.csproj.CoreCompileInputs.cache
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.dll
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/refint/Task 64.dll
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.pdb
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/Task 64.genruntimeconfig.cache
+/Users/i-send/Desktop/Промежуточная аттестация /Task 64/obj/Debug/net7.0/ref/Task 64.dll
